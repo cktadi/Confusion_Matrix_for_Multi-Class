@@ -1,4 +1,4 @@
-# Confusion Matrix for Multi Class 
+# Confusion Matrix for Multiclass 
 
 ## Introduction
 A confusion matrix is a table that is often used to summarize the performance of a classification algorithm (or "classifier") on a set of test data whose true values are known. Confusion matrix were first discussed by Townsend [[1]](https://doi.org/10.3758/BF03213026), and it was in 1998 that the term confusion matrix became popular in Machine Learning thanks to Kohavi and Provost [[2]](http://robotics.stanford.edu/~ronnyk/glossary.html). In supervised machine learning, confusion matrix is a matrix that measures the quality of
